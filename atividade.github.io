@@ -8,9 +8,9 @@
 <form action="/action_page.php">
   <label for="fname">Primeiro Nome:</label><br>
   <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
+  <label for="lname">Sobrenome:</label><br>
   <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Confirmar">
 </form>
 
 <p>Note that the form itself is not visible.</p>
